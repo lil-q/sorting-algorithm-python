@@ -1,5 +1,4 @@
-个人博客：https://lil-q.github.io/2019/11/16/%E6%8E%92%E5%BA%8F-Sort-%E7%AE%97%E6%B3%95/
-
+[原文](https://lil-q.github.io/blog/%E6%8E%92%E5%BA%8F-sort-%E7%AE%97%E6%B3%95/)
 # 排序
 
 ## 分类
